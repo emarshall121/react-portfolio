@@ -26,17 +26,17 @@ function Portfolio() {
         <div class="card m-4">
         <header class="card-header has-text-centered">
           <p class="card-header-title">
-            Bootcamp - Booksaver
+            Mood Music
           </p>
         </header>
           <div class="card-image">
             <figure class="image">
-              <img src="Portfolio/book_saver.png" alt="Placeholder"></img>
+              <img src="Portfolio/mood-music.png" alt="Placeholder"></img>
             </figure>
           </div>
           <footer class="card-footer">
-            <a href="https://github.com/emarshall121/project-2" class="card-footer-item">Github</a>
-            <a href="https://morning-garden-49607.herokuapp.com/" class="card-footer-item">Application</a>
+            <a href="https://github.com/aejg-project/mood-music" class="card-footer-item">Github</a>
+            <a href="https://mewd-mewsic.herokuapp.com/" class="card-footer-item">Application</a>
           </footer>
         </div>
 
